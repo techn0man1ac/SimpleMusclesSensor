@@ -1,19 +1,25 @@
 # SimoleMusclesSensor
 
-This is a very simple muscle activity sensor.
+/* тут має бути піктограмка прапорця з Українським та Англійським прапором для переключення між мовами(файлами README.md та README_EN.md) */
 
-# Schematic
+Це простий датчик м'язової активності, який працює по ємністному принципу.
 
-This is a very simple muscle activity sensor base on LM358N, it uses three electrodes(IN-, IN+ and 3.3V reference supplied to the third electrode in series with a 2 MΩ resistor), negative feedback loop and gain 1 to 110.
+# Схемотехніка
+
+Це дуже простий датчик м'язової активності оснований на базі операційного підсилювача загального призначення LM358N, використовується три електроди(IN-, IN+ та 3.3В референс, підключається через послідовно підключений резистор номіналом 2 МОм), ОП підключений по схемі петлі негативного зворотного зв'язку і має коефіцієнт посилення 1 до 110.
 
 ![Data visualizations](https://raw.githubusercontent.com/techn0man1ac/SimoleMusclesSensor/main/Imgs/Schematic_SimoleMusclesSensor_2023-08-27.png "Data visualizations")
 
-# Data visualizations
+Завжди актуальна схемотехніка знаходиться тут:
 
-For datas visualization i use Serial-Oscilloscope:
+https://oshwlab.com/raznie.podelki/simolemusclessensor
+
+# Візуалізація данних
+
+Для візуалізації данних я використав open source проект під назвою "Serial-Oscilloscope":
 
 ![Data visualizations](https://raw.githubusercontent.com/techn0man1ac/SimoleMusclesSensor/main/Imgs/2023-08-25%20195831.png "Data visualizations")
 
-Project link:
+Посилання на проект:
 
 https://github.com/xioTechnologies/Serial-Oscilloscope
