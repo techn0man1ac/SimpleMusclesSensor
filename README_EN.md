@@ -2,7 +2,9 @@
 
 /* тут має бути піктограмка прапорця з Українським та Англійським прапором для переключення між мовами(файлами README.md та README_EN.md) */
 
-This is a simple muscle activity sensor that works on the capacitive principle.
+This is a simple muscle activity sensor based on LM358, that works on the capacitive principle.
+
+# Sensor electrodes constructions
 
 # Schematic
 
@@ -12,7 +14,7 @@ This is a very simple sensor of muscle activity based on a general-purpose opera
 
 The actual scheme is always here:
 
-https://oshwlab.com/raznie.podelki/simolemusclessensor
+https://oshwlab.com/raznie.podelki/simplemusclessensor
 
 # Data visualizations
 
