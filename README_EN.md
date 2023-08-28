@@ -1,4 +1,4 @@
-# SimoleMusclesSensor
+# SimpleMusclesSensor
 
 /* тут має бути піктограмка прапорця з Українським та Англійським прапором для переключення між мовами(файлами README.md та README_EN.md) */
 
