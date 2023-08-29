@@ -3,7 +3,7 @@
 
 # SimpleMusclesSensor
 
-![How to make electrode](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_162535.jpg "How to make electrode")
+![Main](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_162535.jpg "Main")
 
 Це простий датчик м'язової активності, який працює по ємністному принципу.
 
@@ -31,13 +31,15 @@
 
 Це дуже простий датчик м'язової активності оснований на базі операційного підсилювача загального призначення LM358N, використовується три електроди(IN-, IN+ та 3.3В референс, підключається через послідовно підключений резистор номіналом 2 МОм), ОП підключений по схемі петлі негативного зворотного зв'язку і має коефіцієнт посилення 1 до 110.
 
-![Data visualizations](https://raw.githubusercontent.com/techn0man1ac/SimoleMusclesSensor/main/Imgs/Schematic_SimoleMusclesSensor_2023-08-27.png "Data visualizations")
+![Schematic SimoleMusclesSensor](https://raw.githubusercontent.com/techn0man1ac/SimoleMusclesSensor/main/Imgs/Schematic_SimoleMusclesSensor_2023-08-27.png "Schematic SimoleMusclesSensor")
 
 Завжди актуальна схемотехніка знаходиться тут:
 
 https://oshwlab.com/raznie.podelki/simplemusclessensor
 
 # Як це працює?
+
+![Sensor output scope](https://github.com/techn0man1ac/SimpleMusclesSensor/blob/main/Imgs/SensorOutputScope.gif "Sensor output scope")
 
 Принцип роботи датчика дуже простий по своїй суті, при контакті з шкірою операційний підсилювач збуджується та починає генерацію імпульсів з частотою мережі 230 В(тобто 50 Гц) на своєму виході, і по мірі притискання контактів до шкіри скважність зменшується, це детектується за допомогою функції pulseIn():
 
