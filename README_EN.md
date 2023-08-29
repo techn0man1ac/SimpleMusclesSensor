@@ -3,6 +3,8 @@
 
 # SimpleMusclesSensor
 
+WARNING! I, as the author, do not bear any responsibility for your actions, since it is physical contact(body contact) with the USB power bus, there is a possibility of getting a network potential of 230 V. Observe all safety measures.
+
 ![Main](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_162535.jpg "Main")
 
 This is a simple muscle activity sensor, that works on the capacitive principle.
