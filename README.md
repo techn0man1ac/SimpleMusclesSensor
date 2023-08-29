@@ -15,7 +15,7 @@
 
 ![2 parts of electrodes](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_164308.jpg "2 parts of electrodes")
 
-Розпиляв круглу кришку на дві одинакові частини у формі півмісяця.
+Розпиляв круглу кришку на дві однакові частини у формі півмісяця.
 
 ![Soldering wires to stainless steel](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_180009.jpg "Soldering wires to stainless steel")
 
