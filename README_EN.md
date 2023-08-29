@@ -1,6 +1,8 @@
-# SimpleMusclesSensor
+[![UA_version_README](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Flags/UA%402x.png)](https://github.com/techn0man1ac/SimpleMusclesSensor)
+[![GB_version_README](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Flags/GB%402x.png)](https://github.com/techn0man1ac/SimpleMusclesSensor/blob/main/README_EN.md)
 
-/* тут має бути піктограмка прапорця з Українським та Англійським прапором для переключення між мовами(файлами README.md та README_EN.md) */
+
+# SimpleMusclesSensor
 
 This is a simple muscle activity sensor based on LM358, that works on the capacitive principle.
 
