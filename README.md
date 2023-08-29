@@ -1,11 +1,11 @@
-# SimpleMusclesSensor
+[![UA_version_README](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Flags/UA%402x.png)](https://github.com/techn0man1ac/SimpleMusclesSensor)
+[![GB_version_README](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Flags/GB%402x.png)](https://github.com/techn0man1ac/SimpleMusclesSensor/blob/main/README_EN.md)
 
-/* тут має бути піктограмка прапорця з Українським та Англійським прапором для переключення між мовами(файлами README.md та README_EN.md) */
+# SimpleMusclesSensor
 
 Це простий датчик м'язової активності, який працює по ємністному принципу.
 
 # Конструкція електродів давача
-
 
 
 # Схемотехніка
