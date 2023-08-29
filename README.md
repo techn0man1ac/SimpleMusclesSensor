@@ -47,7 +47,7 @@ https://www.arduino.cc/reference/en/language/functions/advanced-io/pulsein/
 
 # Візуалізація данних
 
-Для досягнення максимальної чутливості сенсора важливо візуалізовувати данні, для візуалізації даних я використав open source проект під назвою "Serial-Oscilloscope":
+Для досягнення максимальної чутливості сенсора важливо візуалізовувати данні(навчитись керувати м'язами так, щоб сенсор максимально це "відчував"), для візуалізації даних я використав open source проект під назвою "Serial-Oscilloscope":
 
 ![Data visualizations](https://raw.githubusercontent.com/techn0man1ac/SimoleMusclesSensor/main/Imgs/2023-08-25%20195831.png "Data visualizations")
 
