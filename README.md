@@ -21,7 +21,7 @@
 
 Нержавійка сама по собі не паяється припоєм, тому прийшлось використати кислоту, та потім добре відмити її спиртом, все таки ця частина контактує з моєю шкірою. Весь процес зайняяв 40 хвилин.
 
-![Sensor construction](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230825_123516.jpg "Sensor construction")
+![Sensor construction](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/Sensor.jpg "Sensor construction")
 
 Далі приклеїв на термоклей до прогумованого пояска з дермантином по середині, нашив на ворсисту блискавку(в народі їх зовуть "липучками") для зручного надівання, знімання датчика. На фото в идно 3 контакти, лівий(IN-), правий(IN+) та знизу референс(3.3В).
 
