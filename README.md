@@ -8,7 +8,11 @@
 
 ![Main](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_162535.jpg "Main")
 
-Це простий датчик м'язової активності, який працює по ємністному принципу.
+Це простий датчик м'язової активності, який працює по ємністному принципу. 
+
+Відео з демонстрацією роботи:
+
+https://www.youtube.com/shorts/VuWuCSAJUlg
 
 # Конструкція електродів давача
 
