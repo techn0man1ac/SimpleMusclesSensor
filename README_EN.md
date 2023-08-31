@@ -9,6 +9,10 @@ WARNING! I, as the author, do not bear any responsibility for your actions, sinc
 
 This is a simple muscle activity sensor, that works on the capacitive principle.
 
+Video demonstration:
+
+https://www.youtube.com/shorts/VuWuCSAJUlg
+
 # Electrodes construction
 
 ![How to make electrode](https://raw.githubusercontent.com/techn0man1ac/SimpleMusclesSensor/main/Imgs/Electrodes/20230824_162405.jpg "How to make electrode")
